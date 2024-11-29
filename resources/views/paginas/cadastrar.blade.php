@@ -9,7 +9,7 @@
         <textArea type="text" name="descricaoTexto"></textArea>
         <br><br>
 
-        <button type="submit">Salvar</button>
-        <a href="paginas/index"><button>Voltar</button></a>
+        <button type="submit">Salvar</button>  
     </form>
+    <a href="/index"><button>Voltar</button></a>
 </x-layout>
